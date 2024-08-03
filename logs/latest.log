@@ -1,0 +1,132 @@
+[13:38:53] [ServerMain/WARN]: [oshi.driver.windows.perfmon.PerfmonDisabled] Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[13:39:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:39:02] [ServerMain/INFO]: Loaded 1175 recipes
+[13:39:02] [ServerMain/INFO]: Loaded 1276 advancements
+[13:39:02] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[13:39:02] [Server thread/INFO]: Loading properties
+[13:39:02] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[13:39:03] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:39:03] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:39:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[13:39:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[13:39:04] [Server thread/INFO]: Default game type: SURVIVAL
+[13:39:04] [Server thread/INFO]: Generating keypair
+[13:39:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:39:04] [Server thread/INFO]: Using default channel type
+[13:39:04] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[13:39:04] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[13:39:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.0
+[13:39:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:39:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.0
+[13:39:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.6.
+[13:39:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[13:39:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:39:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:39:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:39:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:39:06] [Server thread/INFO]: Preparing level "world"
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.0
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7837da9
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[13:39:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:39:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:39:08] [Server thread/INFO]: Time elapsed: 1283 ms
+[13:39:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:39:08] [Server thread/INFO]: Time elapsed: 123 ms
+[13:39:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:39:08] [Server thread/INFO]: Time elapsed: 86 ms
+[13:39:08] [Server thread/INFO]: Running delayed init tasks
+[13:39:08] [Server thread/INFO]: Done (6.162s)! For help, type "help"
+[13:39:08] [Server thread/INFO]: Timings Reset
+[13:40:40] [User Authenticator #0/INFO]: UUID of player aduvjp is a6a90639-90db-38fa-a394-d552b34b49ba
+[13:40:41] [Server thread/INFO]: aduvjp joined the game
+[13:40:41] [Server thread/INFO]: aduvjp[/127.0.0.1:50308] logged in with entity id 262 at ([world]154.30212689677597, 67.0, -686.6702585646668)
+[13:41:06] [User Authenticator #0/INFO]: UUID of player Fireman6536 is b7d4297b-8fa4-3c98-8492-92bf719b9038
+[13:41:06] [Server thread/INFO]: Fireman6536 joined the game
+[13:41:06] [Server thread/INFO]: Fireman6536[/26.171.154.173:53458] logged in with entity id 581 at ([world]279.24187703829847, 223.6823610145371, -671.7058110508531)
+[14:06:07] [Server thread/INFO]: Villager Villager['Villager'/469, uuid='c174a9ed-58e3-4de1-958f-600e94d3352b', l='ServerLevel[world]', x=69.70, y=61.00, z=-816.90, cpos=[4, -52], tl=298374, v=true] died, message: 'Villager was squished too much'
+[14:19:54] [Server thread/INFO]: Fireman6536 issued server command: /gamemode spectator
+[14:19:54] [Server thread/INFO]: [Fireman6536: Set own game mode to Spectator Mode]
+[14:20:12] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[14:20:12] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[14:22:30] [Server thread/INFO]: Fireman6536 issued server command: /gamemode survival
+[14:22:30] [Server thread/INFO]: [Fireman6536: Set own game mode to Survival Mode]
+[14:28:18] [Server thread/INFO]: aduvjp issued server command: /gamemode spectator
+[14:28:18] [Server thread/INFO]: [aduvjp: Set own game mode to Spectator Mode]
+[14:29:32] [Server thread/INFO]: aduvjp issued server command: /gamemode creative
+[14:29:32] [Server thread/INFO]: [aduvjp: Set own game mode to Creative Mode]
+[14:29:39] [Server thread/INFO]: aduvjp issued server command: /gamemode survival
+[14:29:39] [Server thread/INFO]: [aduvjp: Set own game mode to Survival Mode]
+[14:34:37] [Server thread/INFO]: Villager Villager['Villager'/471, uuid='ee166184-8876-402c-932f-9fa3fe3cc568', l='ServerLevel[world]', x=69.70, y=61.00, z=-816.87, cpos=[4, -52], tl=125118, v=true] died, message: 'Villager was squished too much'
+[14:37:28] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[14:37:28] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[14:37:40] [Server thread/INFO]: Fireman6536 issued server command: /gamemode spectator
+[14:37:40] [Server thread/INFO]: [Fireman6536: Set own game mode to Spectator Mode]
+[14:38:01] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[14:38:01] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[14:38:15] [Server thread/INFO]: Fireman6536 issued server command: /gamemode spectator
+[14:38:15] [Server thread/INFO]: [Fireman6536: Set own game mode to Spectator Mode]
+[14:38:36] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[14:38:36] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[14:40:19] [Server thread/INFO]: Fireman6536 issued server command: /gamemode survival
+[14:40:19] [Server thread/INFO]: [Fireman6536: Set own game mode to Survival Mode]
+[14:44:45] [Server thread/INFO]: aduvjp issued server command: /tp Fireman6536
+[14:44:45] [Server thread/INFO]: [aduvjp: Teleported aduvjp to Fireman6536]
+[14:44:45] [Server thread/WARN]: aduvjp moved too quickly! 147.68104933400136,125.5,26.868546114083188
+[14:45:06] [Server thread/INFO]: Fireman6536 issued server command: /tp aduvjp
+[14:45:06] [Server thread/INFO]: [Fireman6536: Teleported Fireman6536 to aduvjp]
+[14:45:06] [Server thread/WARN]: Fireman6536 moved too quickly! 2.15214540171678,134.94456886163985,0.34829628709474036
+[14:45:19] [Server thread/INFO]: aduvjp issued server command: /gamemode spectator
+[14:45:19] [Server thread/INFO]: [aduvjp: Set own game mode to Spectator Mode]
+[14:45:40] [Server thread/INFO]: aduvjp issued server command: /gamemode survival
+[14:45:40] [Server thread/INFO]: [aduvjp: Set own game mode to Survival Mode]
+[14:49:23] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[14:49:23] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[14:54:05] [Server thread/INFO]: Fireman6536 issued server command: /gamemode survival
+[14:54:05] [Server thread/INFO]: [Fireman6536: Set own game mode to Survival Mode]
+[15:17:04] [Server thread/INFO]: Villager Villager['Villager'/5271, uuid='af8638da-1899-493d-9c2c-b4e5a6666bea', l='ServerLevel[world]', x=69.70, y=61.00, z=-816.89, cpos=[4, -52], tl=81178, v=true] died, message: 'Villager was squished too much'
+[15:17:34] [Server thread/INFO]: Fireman6536 issued server command: /gamemode creative
+[15:17:34] [Server thread/INFO]: [Fireman6536: Set own game mode to Creative Mode]
+[15:21:58] [Server thread/INFO]: Villager Villager['Villager'/457, uuid='5efd43c1-4628-4839-8e2d-f6b974955605', l='ServerLevel[world]', x=69.70, y=61.00, z=-816.89, cpos=[4, -52], tl=222149, v=true] died, message: 'Villager was squished too much'
+[15:22:06] [Server thread/INFO]: Fireman6536 issued server command: /gamemode survival
+[15:22:06] [Server thread/INFO]: [Fireman6536: Set own game mode to Survival Mode]
+[15:23:54] [Server thread/INFO]: aduvjp lost connection: Disconnected
+[15:23:54] [Server thread/INFO]: aduvjp left the game
+[15:23:56] [Server thread/INFO]: Fireman6536 lost connection: Disconnected
+[15:23:56] [Server thread/INFO]: Fireman6536 left the game
+[15:24:04] [Server thread/INFO]: Stopping the server
+[15:24:04] [Server thread/INFO]: Stopping server
+[15:24:04] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.0
+[15:24:04] [Server thread/INFO]: Saving players
+[15:24:04] [Server thread/INFO]: Saving worlds
+[15:24:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saved 38 block chunks, 202 entity chunks, 0 poi chunks in world 'world' in 0.12s
+[15:24:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:24:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[15:24:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:24:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:24:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[15:24:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:24:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:24:04] [Server thread/INFO]: Flushing Chunk IO
+[15:24:04] [Server thread/INFO]: Closing Thread Pool
+[15:24:04] [Server thread/INFO]: Closing Server
